@@ -1,0 +1,19 @@
+test
+~test
+sbt test
+test
+~test
+q
+exit
+~test
+scala
+console
+exit
+~test
+run "txt "/Users/" "true" "pluralsight" 
+run "txt "Users/" "true" "pluralsight" 
+run "txt" "/Users/" "true" "pluralsight" 
+run "txt" "/Users/" "true" "bryant" 
+run "txt" "/Users/" "true" "bryant" "results.out"
+test
+doc
