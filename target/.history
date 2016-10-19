@@ -17,3 +17,4 @@ run "txt" "/Users/" "true" "bryant"
 run "txt" "/Users/" "true" "bryant" "results.out"
 test
 doc
+run "txt" "/Users/" "true" "bryant"
